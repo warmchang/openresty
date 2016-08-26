@@ -66,7 +66,6 @@ util/blog-rows.sql
 util/comments.sql
 util/posts.sql
 ngx_openresty-*
-openresty-*
 work/
 reindex
 t/*.t_
